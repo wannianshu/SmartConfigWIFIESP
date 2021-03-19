@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">MySmartConfig</string>
+    <string name="config" translatable="false">一键配置</string>
+    <string name="startconfig" translatable="false">开始配置</string>
+    <string name="ssid" translatable="false">WIFI账号: </string>
+    <string name="psw" translatable="false">WIFI密码: </string>
+    <string name="smartconfig" translatable="false">设置SmartConfig</string>
+    <string name="setting_tv_3" translatable="false">请输入WiFi密码</string>
+</resources>
